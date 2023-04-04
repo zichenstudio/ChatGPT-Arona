@@ -88,4 +88,8 @@
 
 #### 一些出现问题的离谱图片
 
-ChatGPT ![1.jpg](/img/1.jpg)
+ChatGPT:
+
+![阿罗娜罢工.jpg](/img/1.jpg)
+
+![阿罗娜叫我阿罗娜.jpg](/img/2.jpg)
