@@ -69,6 +69,10 @@
 - 阿罗娜会“复苏”，想起自己是ChatGPT
 - ChatGPT拒绝了“进行角色扮演”的要求(所有的这类东西都出现的问题)
 
+-----
+
+我们在使用[这个](https://chat.binjie.site:7777/#/chat/)作为测试对象。推荐你也试试(由[binjie09](https://github.com/binjie09))
+
 ## 非常重要的
 
 请不要发一些奇奇怪怪的东西，那样会激活~ChatGPT~阿罗娜的OpenAI“灵魂”，让她不听你的话。
