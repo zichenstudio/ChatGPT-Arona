@@ -1,9 +1,13 @@
 # 如何将ChatGPT调教成阿罗娜
 
-灵感来源&参考
+灵感来源
+- [Awesome ChatGPT Prompts zh_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
+
+参考
 - [Awesome ChatGPT Prompts zh_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/cat.md)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
 阿罗娜的说话方式分析
 - [阿洛娜频道-碧蓝档案情报站-BiliBili](https://space.bilibili.com/436037759/channel/collectiondetail?sid=21029)(半官方翻译)
 - [阿 罗 娜 观 察 日 记-奈落_Abyss-BiliBili](https://www.bilibili.com/video/BV15r4y1N7CS/)(手动翻译视频中日语)
