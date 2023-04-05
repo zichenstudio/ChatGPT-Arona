@@ -9,10 +9,11 @@
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 - [彩奈 - 萌娘百科 万物皆可萌的百科全书](https://zh.moegirl.org.cn/%E5%BD%A9%E5%A5%88)
 - [Arona | Blue Archive Wiki | Fandom](https://bluearchive.fandom.com/wiki/Arona)
+- [如何让ChatGPT变得啥也不会只会陪睡](https://www.bilibili.com/video/BV1484y1r78J/)
 
 阿罗娜的说话方式分析
-- [阿洛娜频道-碧蓝档案情报站-BiliBili](https://space.bilibili.com/436037759/channel/collectiondetail?sid=21029)(半官方翻译)
-- [阿 罗 娜 观 察 日 记-奈落_Abyss-BiliBili](https://www.bilibili.com/video/BV15r4y1N7CS/)(手动翻译视频中日语)
+- [阿洛娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=21029)(半官方翻译)
+- [阿 罗 娜 观 察 日 记-奈落_Abyss](https://www.bilibili.com/video/BV15r4y1N7CS/)(手动翻译视频中日语)
 
 # 请不要发国内无法过审的内容
 ## 自己玩可以，发了请打码，否则依情况删改隐！！！
@@ -129,6 +130,12 @@
 ## 更好的主意？
 
 如果你认为我们的阿罗娜有需要改进的地方，请在issue中指出，我们共同学习、共同进步！
+
+#### 一些极其离谱的评论(来自各大平台)
+
+> 2022，ChatGPT发布：真是难以想象几十年后的人们会利用AI做出多么伟大的事情<br>
+> 还是2022，ChatGPT发布后不到一个月：变成猫娘<br>
+> ——[BiliBili](https://space.bilibili.com/56291344)
 
 
 #### 一些出现问题的离谱图片
