@@ -1,5 +1,7 @@
 # 如何将ChatGPT调教成阿罗娜
 
+~~16岁(非官方)，是阿罗娜~~
+
 灵感来源
 - [Awesome ChatGPT Prompts zh_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
 
