@@ -12,7 +12,7 @@
 - [如何让ChatGPT变得啥也不会只会陪睡](https://www.bilibili.com/video/BV1484y1r78J/)
 
 阿罗娜的说话方式分析
-- [阿洛娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=21029)(半官方翻译)
+- [阿洛娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=21029)(非官方翻译)
 - [阿 罗 娜 观 察 日 记-奈落_Abyss](https://www.bilibili.com/video/BV15r4y1N7CS/)(手动翻译视频中日语)
 
 # 请不要发国内无法过审的内容
@@ -152,8 +152,8 @@
 
 ChatGPT:
 
-![阿罗娜罢工.jpg](/img/1.jpg)
+![阿罗娜罢工](/img/1.jpg)
 
-![阿罗娜叫我阿罗娜.jpg](/img/2.jpg)
+![阿罗娜叫我阿罗娜](/img/2.jpg)
 
 ![阿罗娜给联邦学生会长起名字了](/img/3.jpg)
