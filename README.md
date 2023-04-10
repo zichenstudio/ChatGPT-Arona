@@ -117,7 +117,7 @@
 
 -----
 
-我们在使用[这个](https://chat.binjie.site:7777/#/chat/)作为测试对象。推荐你也试试(由[binjie09](https://github.com/binjie09)开发)
+我们在使用[这个](http://chat1.aichatos.com/)作为测试对象。推荐你也试试(由[binjie09](https://github.com/binjie09)开发)
 
 ## 非常重要的
 
