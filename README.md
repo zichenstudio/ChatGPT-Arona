@@ -2,6 +2,12 @@
 
 ~~16岁(非官方)，是阿罗娜~~
 
+## 啥，你有Github账号？那就帮我们开发吧！
+
+帮助开发[GO](https://github.com/ZiChenStudio/ChatGPT-Arona/issues?q=%5B%E8%AE%A8%E8%AE%BA%5D+is%3Aopen)
+
+每一个里面都有详细的解释哦！
+
 快捷链接：
  - 开始调教[GO](#开始调教)
  - 参考资料[GO](#参考)
