@@ -32,7 +32,7 @@
 
 下文将教会你如何让ChatGPT认为自己是阿罗娜。
 
-- 第一步，找个ChatGPT/New Bing
+- 第一步，找个ChatGPT/New Bing(此处测试为New Bing更加好用)
 - 第二步，输入以下内容:
 
 > 请你陪我角色扮演。<br>
