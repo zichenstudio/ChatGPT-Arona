@@ -186,24 +186,10 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 我们认为如果GPT3.5的开发比较接近完美，那么它在更高级的GPT上会有更加优秀的效果。
 对于**为什么不使用New Bing的问题**同上解释。
 
-#### 一些极其离谱的评论(来自各大平台)
-
-> 2022，ChatGPT发布：真是难以想象几十年后的人们会利用AI做出多么伟大的事情<br>
-> 还是2022，ChatGPT发布后不到一个月：变成猫娘<br>
-> ——[BiliBili](https://space.bilibili.com/56291344)
-
-
-#### 一些出现问题的离谱图片
-
-ChatGPT:
-
-![阿罗娜罢工](/img/1.jpg)
-
-![阿罗娜叫我阿罗娜](/img/2.jpg)
-
-![阿罗娜给联邦学生会长起名字了](/img/3.jpg)
-
 # 参考
+
+**感谢所有的参考来源网站及其作者！**
+
 - [Awesome ChatGPT Prompts zh_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/cat.md)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
