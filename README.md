@@ -197,6 +197,7 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 - [Arona | Blue Archive Wiki | Fandom](https://bluearchive.fandom.com/wiki/Arona)
 - [如何让ChatGPT变得啥也不会只会陪睡](https://www.bilibili.com/video/BV1484y1r78J/)
 - [二十四节气在日本：中国智慧造福海外](https://zhuanlan.zhihu.com/p/388152921)(我在找日本有没有二十四节气)
+- [“丑牛”之年说说日语中那些与“牛”有关的俗语【4】](http://japan.people.com.cn/n1/2021/0210/c35421-32028094-4.html)&[BiliBili动态](https://www.bilibili.com/opus/816359852890652738)(我在找吃完就睡会变牛的口语)
 
 阿罗娜的说话方式分析
 - [阿洛娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=21029)(非官方翻译)
