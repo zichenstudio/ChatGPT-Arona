@@ -153,7 +153,7 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 
 ## 更好的主意？
 
-如果你认为我们的阿罗娜有需要改进的地方，请在issue中指出，我们共同学习、共同进步！
+如果你认为我们的阿罗娜有需要改进的地方，请在[issue](https://github.com/ZiChenStudio/ChatGPT-Arona/issues)或[discussion](https://github.com/ZiChenStudio/ChatGPT-Arona/discussions)中指出，我们共同学习、共同进步！
 
 ## 帮助我们
 
