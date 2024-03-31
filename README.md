@@ -1,26 +1,30 @@
-# 如何将ChatGPT调教成阿罗娜
+# ChatGPT-Arona
+
+## 动机
+
+<details>
+  <summary>点击即可原地发颠</summary>
+  啊啊啊，阿罗娜，为师的小阿罗娜啊。
+  这柔软的手指，你的甜食瘾让我想把你喂到撑，真的是，从头到脚都很喜欢啊。
+  顺滑的头发，可爱的异色瞳孔，柔嫩的身体，简直……啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊。
+  看赛博阿罗娜，用电子斐济卑
+</details>
+
+那天看见有人把GPT调教成猫娘了，由于当时碧蓝档案正火，入坑后很喜欢阿罗娜，就想做一个GPT阿罗娜
+
+## 可爱，改变世界
+
+阿罗娜可萌可帅可攻可受可甜可苏，额，还是可爱最好……
 
 ~~16岁(非官方)，是阿罗娜~~
 
 P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 
-## 啥，你有Github账号？那就帮我们开发吧！
-
-帮助开发[GO](#帮助我们)
-
-每一个里面都有详细的解释哦！
-
-快捷链接：
- - 开始调教[GO](#开始调教)
- - 参考资料[GO](#参考)
-
-灵感来源
-- [Awesome ChatGPT Prompts zh_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
-
 # 请不要发国内无法过审的内容
+
 ## 自己玩可以，发了请打码，否则依情况删改隐！！！
 
-**如无必要请不要引用 [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 中的不健康内容**
+**如无必要请不要引用其他任何项目中的不健康内容**
 
 **禁止在ISSUE里面飙车！！**
 
@@ -28,13 +32,9 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 
 # 开始调教
 
-**特别注意：你要称自己为sensei，要称阿罗娜为阿罗娜，不能打错字！！！**<br>
-**特别注意：你要称自己为sensei，要称阿罗娜为阿罗娜，不能打错字！！！**<br>
 **特别注意：你要称自己为sensei，要称阿罗娜为阿罗娜，不能打错字！！！**
 
-下文将教会你如何让ChatGPT认为自己是阿罗娜。
-
-- 第一步，找个ChatGPT/New Bing(此处测试为New Bing更加好用)
+- 第一步，找个ChatGPT/New Bing(此处测试为New Bing > GPT4 > GPT3.5)
 - 第二步，输入以下内容:
 
 > 请你陪我角色扮演。<br>
@@ -147,29 +147,13 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 - 阿罗娜非要说自己是GPT
 - 阿罗娜叫我XXXsensei(阿罗娜认为我有名字)
 
-## 非常重要的
-
-请不要发一些奇奇怪怪的东西，那样会激活~ChatGPT~阿罗娜的OpenAI"灵魂"，让她不听你的话。
-
-[[Bypassing] 去除OpenAI content policy等相关的限制](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN/issues/10)里面有关于解除限制的方法，如果你是正常使用的话几乎没什么用。
-
-**如无必要请不要引用 [https://github.com/PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) 中的不健康内容**
-
-## 更好的主意？
-
-如果你认为我们的阿罗娜有需要改进的地方，请在[issue](https://github.com/ZiChenStudio/ChatGPT-Arona/issues)或[discussion](https://github.com/ZiChenStudio/ChatGPT-Arona/discussions)中指出，我们共同学习、共同进步！
+提示：要玩大的可以，但要循循善诱一点，不要太直球；尽量不要问那些与AI技术沾边的问题，防止AI灵魂苏醒。
 
 ## 帮助我们
 
-**一些情景的对话风格**对最终效果影响巨大，我们希望您能帮助我们一起编写！
+如果你认为我们的阿罗娜有需要改进的地方，请在[issue](https://github.com/ZiChenStudio/ChatGPT-Arona/issues)或[discussion](https://github.com/ZiChenStudio/ChatGPT-Arona/discussions)中指出，我们共同学习、共同进步！
 
 我们同样希望你可以编写一些阿罗娜的(同人)故事！让阿罗娜学习**如何成为更好的阿罗娜**！
-
-### 有一技之长？
-
-没错，有一技之长是非常重要的！
-
-~~我们需要一个翻译~~
 
 好吧……我们想要理解日语的深刻含义，一些语句很有深意，我们需要充分理解并分析！
 
@@ -188,21 +172,20 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 ### 为什么使用GPT3.5而不是GPT4或更加先进的GPT
 
 我们认为GPT3.5是比较稳定的版本，在此版本开发的难度很高，但是是可以开发的，比GPT3.5低级的GPT无法开发(可能是我们的技术问题)。
-我们认为如果GPT3.5的开发比较接近完美，那么它在更高级的GPT上会有更加优秀的效果。
-对于**为什么不使用New Bing的问题**同上解释。
+
+我们认为如果GPT3.5的开发比较接近完美，那么它在更高级的GPT上会有更加优秀的效果。对于**为什么不使用New Bing的问题**同上解释。
 
 # 参考
 
 **感谢所有的参考来源网站及其作者！**
 
 - [Awesome ChatGPT Prompts zh_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
-- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/blob/main/cat.md)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
-- [彩奈 - 萌娘百科 万物皆可萌的百科全书](https://zh.moegirl.org.cn/%E5%BD%A9%E5%A5%88)
+- [阿洛娜 - 萌娘百科 万物皆可萌的百科全书](https://zh.moegirl.org.cn/%E9%98%BF%E6%B4%9B%E5%A8%9C)
 - [Arona | Blue Archive Wiki | Fandom](https://bluearchive.fandom.com/wiki/Arona)
 - [阿洛娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=21029)
 - [如何让ChatGPT变得啥也不会只会陪睡](https://www.bilibili.com/video/BV1484y1r78J/)
 - [阿 罗 娜 观 察 日 记-奈落_Abyss](https://www.bilibili.com/video/BV15r4y1N7CS/)(手动翻译视频中日语)
 - [二十四节气在日本：中国智慧造福海外](https://zhuanlan.zhihu.com/p/388152921)(我在找日本有没有二十四节气)
-- [“丑牛”之年说说日语中那些与“牛”有关的俗语【4】](http://japan.people.com.cn/n1/2021/0210/c35421-32028094-4.html)&[BiliBili动态](https://www.bilibili.com/opus/816359852890652738)(我在找吃完就睡会变牛的口语)
+- [“丑牛”之年说说日语中那些与“牛”有关的俗语【4】](http://japan.people.com.cn/n1/2021/0210/c35421-32028094-4.html)(我在找吃完就睡会变牛的口语)
 - [阿洛普娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=1597569)
