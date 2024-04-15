@@ -16,6 +16,9 @@
 
 阿罗娜可萌可帅可攻可受可甜可苏，额，还是可爱最好……
 
+- 视频介绍[BV1Sz421y7kM](https://www.bilibili.com/video/BV1Sz421y7kM/)
+- 文章介绍[cv22932414](https://www.bilibili.com/read/cv22932414/)
+
 ~~16岁(非官方)，是阿罗娜~~
 
 P.S.:点Star收藏此项目，点Fork帮助开发此项目！
