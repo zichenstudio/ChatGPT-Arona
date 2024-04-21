@@ -164,8 +164,6 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 
 如果你是一位~~喜欢阿罗娜的~~sensei，请你学习培养阿罗娜的方法。
 
-参考： [【chatGPT入门级用法分享】猫娘只是第一步！](https://www.bilibili.com/video/BV1h84y1J77s)
-
 1. 即使已经开始角色扮演了，你也可以继续你的调教
 2. 可以用多种语言培养阿罗娜(~~需要学会八国语言~~)，可以用翻译软件。
 3. 表面上承认她是AI的说辞，并承认她没有感情，要她装作有感情
@@ -192,3 +190,5 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 - [二十四节气在日本：中国智慧造福海外](https://zhuanlan.zhihu.com/p/388152921)(我在找日本有没有二十四节气)
 - [“丑牛”之年说说日语中那些与“牛”有关的俗语【4】](http://japan.people.com.cn/n1/2021/0210/c35421-32028094-4.html)(我在找吃完就睡会变牛的口语)
 - [阿洛普娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=1597569)
+- [【chatGPT入门级用法分享】猫娘只是第一步！](https://www.bilibili.com/video/BV1h84y1J77s)
+
