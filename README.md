@@ -191,4 +191,6 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 - [“丑牛”之年说说日语中那些与“牛”有关的俗语【4】](http://japan.people.com.cn/n1/2021/0210/c35421-32028094-4.html)(我在找吃完就睡会变牛的口语)
 - [阿洛普娜频道-碧蓝档案情报站](https://space.bilibili.com/436037759/channel/collectiondetail?sid=1597569)
 - [【chatGPT入门级用法分享】猫娘只是第一步！](https://www.bilibili.com/video/BV1h84y1J77s)
+- [【硬核】【蔚蓝档案】从架空作品视角讨论基沃托斯世界观](https://www.bilibili.com/read/cv30829576/)
+- [对“八分钟速通BA世界观”的总结](https://zhuanlan.zhihu.com/p/682624205)
 
