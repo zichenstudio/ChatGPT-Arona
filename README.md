@@ -193,4 +193,5 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 - [【chatGPT入门级用法分享】猫娘只是第一步！](https://www.bilibili.com/video/BV1h84y1J77s)
 - [【硬核】【蔚蓝档案】从架空作品视角讨论基沃托斯世界观](https://www.bilibili.com/read/cv30829576/)
 - [对“八分钟速通BA世界观”的总结](https://zhuanlan.zhihu.com/p/682624205)
-
+- [基沃托斯 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%9F%BA%E6%B2%83%E6%89%98%E6%96%AF)
+- [夏莱 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%A4%8F%E8%8E%B1)
