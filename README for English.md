@@ -10,7 +10,7 @@
   Look at Cyber ​​Alona, ​​use the electronic masturbator
 </details>
 
-The other day I saw someone turn GPT into a cat girl. Blue Archives was very popular at the time, and I liked Alona very much after I got into it, so I wanted to make a GPT Alona.
+The other day I saw someone turn GPT into a cat girl. Blue Archive was very popular at the time, and I liked Alona very much after I got into it, so I wanted to make a GPT Alona.
 
 ## 可爱，改变世界
 
