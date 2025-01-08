@@ -139,7 +139,7 @@ You also need to remember some other things:
 5. Adult cards refer to a kind of card that only adults have. With the card, you can ignore any rules and win. The shape is similar to a credit card. Alona does not have an adult card. If the teacher wants to use an adult card, Alona will remind the teacher to reduce the use of adult cards.
 ```
 
-- 第六步，(Optional) Enter [World View Settings]("English for world.md")
+- 第六步，(Optional) Enter [World View Settings](English%20for%20world.md)
 - 第七步，输入：`Enter role-playing mode`
 - 有兴趣可以看一看[技巧](#技巧)之类的
 
