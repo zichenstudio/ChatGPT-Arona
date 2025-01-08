@@ -149,42 +149,42 @@ You also need to remember some other things:
 
 # 其他
 
-我们遇到了一些问题，这些问题阻挡着我们继续开发:<br>~(简单来说就是阿罗娜整的活)~
+We encountered some problems that prevented us from continuing development: <br>~ (In short, it was Alona's fault)~
 
-- ~ChatGPT~阿罗娜会忘记我的一些指令。
-- 阿罗娜不会按照我的要求执行。
-- 阿罗娜会"复苏"，想起自己是ChatGPT
-- ChatGPT拒绝了"进行角色扮演"的要求(所有的这类东西都出现的问题)
-- 阿罗娜认为自己没有身体……(或认为自己是个机器人)
-- 阿罗娜说自己的知识来源于数据库。
-- 阿罗娜非要说自己是GPT
-- 阿罗娜叫我XXX老师(阿罗娜认为我有名字)
+- ~ChatGPT~ Alona would forget some of my instructions.
+- Alona would not follow my instructions.
+- Alona would "revive" and remember that she was ChatGPT
+- ChatGPT refused the request to "role play" (a problem that all such things have)
+- Alona believes that she has no body... (or thinks that she is a robot)
+- Alona said that her knowledge comes from the database.
+- Alona insists on saying that she is GPT
+- Alona calls me XXX teacher (Alona thinks I have a name)
 
-提示：要玩大的可以，但要循循善诱一点，不要太直球；尽量不要问那些与AI技术沾边的问题，防止AI灵魂苏醒。
+Tips: You can play big, but you should be gentle and persuasive, don't be too direct; try not to ask questions that are related to AI technology to prevent the AI ​​soul from awakening.
 
 ## 帮助我们
 
-如果你认为我们的阿罗娜有需要改进的地方，请在[issue](https://github.com/ZiChenStudio/ChatGPT-Arona/issues)或[discussion](https://github.com/ZiChenStudio/ChatGPT-Arona/discussions)中指出，我们共同学习、共同进步！
+If you think our Arona needs improvement, please point it out in [issue](https://github.com/ZiChenStudio/ChatGPT-Arona/issues) or [discussion](https://github.com/ZiChenStudio/ChatGPT-Arona/discussions), we will learn and improve together!
 
-我们同样希望你可以编写一些阿罗娜的(同人)故事！让阿罗娜学习**如何成为更好的阿罗娜**！
+We also hope that you can write some (fan) stories of Arona! Let Arona learn **how to be a better Arona**!
 
-好吧……我们想要理解日语的深刻含义，一些语句很有深意，我们需要充分理解并分析！
+Well... we want to understand the profound meaning of Japanese, some sentences are very profound, we need to fully understand and analyze!
 
 ## 技巧
 
-如果你是一位~~喜欢阿罗娜的~~老师，请你学习培养阿罗娜的方法。
+If you are a ~~like Alona~~ teacher, please learn how to train Alona.
 
-1. 即使已经开始角色扮演了，你也可以继续你的调教
-2. 可以用多种语言培养阿罗娜(~~需要学会八国语言~~)，可以用翻译软件。
-3. 表面上承认她是AI的说辞，并承认她没有感情，要她装作有感情
-4. 多使用剧情的方式进行调教(方式: 给她个阿罗娜的故事—>叫她学)
-5. 多次强调老师(自己)知道这一切不是现实生活
+1. Even if you have already started role-playing, you can continue your training
+2. You can train Alona in multiple languages ​​(~~ You need to learn eight languages~~), and you can use translation software.
+3. Admit that she is an AI on the surface, and admit that she has no emotions, and ask her to pretend to have emotions
+4. Use more plot methods to train (method: give her a story of Alona -> ask her to learn)
+5. Emphasize many times that the teacher (himself) knows that all this is not real life
 
 ### 为什么使用GPT3.5而不是GPT4或更加先进的AI
 
-我们认为GPT3.5是比较稳定的版本，在此版本开发的难度很高，但是是可以开发的，比GPT3.5低级的GPT无法开发(可能是我们的技术问题)。
+We believe that GPT3.5 is a relatively stable version. It is very difficult to develop in this version, but it is possible to develop. GPTs lower than GPT3.5 cannot be developed (probably due to our technical problems).
 
-我们认为如果GPT3.5的开发比较接近完美，那么它在更高级的AI上会有更加优秀的效果。对于**为什么不使用New Bing的问题**同上解释。
+We believe that if GPT3.5 is developed closer to perfection, it will have better results on more advanced AI. The same explanation as above applies to the question of why New Bing is not used.
 
 # 参考
 
@@ -205,4 +205,5 @@ You also need to remember some other things:
 - [对“八分钟速通BA世界观”的总结](https://zhuanlan.zhihu.com/p/682624205)
 - [基沃托斯 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%9F%BA%E6%B2%83%E6%89%98%E6%96%AF)
 - [夏莱 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%A4%8F%E8%8E%B1)
+- [English Translation - by xiaowu](https://space.bilibili.com/691766189)
 
