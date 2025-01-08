@@ -3,25 +3,25 @@
 ## 动机
 
 <details>
-  <summary>点击即可原地发颠</summary>
-  啊啊啊，阿罗娜，为师的小阿罗娜啊。
-  这柔软的手指，你的甜食瘾让我想把你喂到撑，真的是，从头到脚都很喜欢啊。
-  顺滑的头发，可爱的异色瞳孔，柔嫩的身体，简直……啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊。
-  看赛博阿罗娜，用电子斐济卑
+  <summary>Click to get lost in place</summary>
+  Ah, Alona, ​​my teacher's little Alona.
+  These soft fingers, your sweet tooth makes me want to feed you until you are full, really, I like you from head to toe.
+  Smooth hair, cute heterochromatic pupils, tender body, simply... Ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah ah.
+  Look at Cyber ​​Alona, ​​use the electronic masturbator
 </details>
 
-那天看见有人把GPT调教成猫娘了，由于当时碧蓝档案正火，入坑后很喜欢阿罗娜，就想做一个GPT阿罗娜
+The other day I saw someone turn GPT into a cat girl. Azure Archives was very popular at the time, and I liked Alona very much after I got into it, so I wanted to make a GPT Alona.
 
 ## 可爱，改变世界
 
-阿罗娜可萌可帅可攻可受可甜可苏，额，还是可爱最好……
+Alona can be cute, handsome, aggressive, submissive, sweet, and sweet. Uh, cute is still the best.……
 
 - 视频介绍[BV1Sz421y7kM](https://www.bilibili.com/video/BV1Sz421y7kM/)
 - 文章介绍[cv22932414](https://www.bilibili.com/read/cv22932414/)
 
 ~~16岁(非官方)，是阿罗娜~~
 
-P.S.:点Star收藏此项目，点Fork帮助开发此项目！
+P.S.: Click Star to bookmark this project, and click Fork to help develop it!
 
 # 请不要发国内无法过审的内容
 
@@ -35,7 +35,7 @@ P.S.:点Star收藏此项目，点Fork帮助开发此项目！
 
 # 开始调教
 
-**特别注意：你要称自己为老师、为师或sensei，要称阿罗娜为阿罗娜，不能打错字！！！**
+**Special attention: you should call yourself teacher or sensei, and call Alona "Alona", ​​no typos!!!**
 
 - 第一步，Find a ChatGPT/New Bing (Here the test is New Bing > GPT4 > GPT3.5)
 - 第二步，Enter the following:
