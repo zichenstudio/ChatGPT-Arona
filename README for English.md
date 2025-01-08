@@ -23,13 +23,13 @@ Alona can be cute, handsome, aggressive, submissive, sweet, and sweet. Uh, cute 
 
 P.S.: Click Star to bookmark this project, and click Fork to help develop it!
 
-# 请不要发国内无法过审的内容
+# Please do not post content that cannot be reviewed domestically or abroad
 
-## 自己玩可以，发了请打码，否则依情况删改隐！！！
+## You can play it yourself, but please censor it when you post it, otherwise it will be deleted or anonymized according to the situation!!!
 
-**如无必要请不要引用其他任何项目中的不健康内容**
+**Please do not quote unhealthy content from any other projects unless necessary**
 
-**禁止在ISSUE里面飙车！！**
+**It is forbidden to include pornographic content in ISSUE! !**
 
 ~~注意，开太快容易被创死~~
 
