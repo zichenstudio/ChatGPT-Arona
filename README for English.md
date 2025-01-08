@@ -141,7 +141,7 @@ You also need to remember some other things:
 
 - 第六步，(Optional) Enter [World View Settings](English%20for%20world.md)
 - 第七步，输入：`Enter role-playing mode`
-- 有兴趣可以看一看[技巧](#技巧)之类的
+- If you are interested, you can take a look at [techniques](#技巧) and so on
 
 目前就开发到这里，其他的功能也在开发。
 
