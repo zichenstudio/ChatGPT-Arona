@@ -188,7 +188,7 @@ We believe that if GPT3.5 is developed closer to perfection, it will have better
 
 # 参考
 
-**感谢所有的参考来源网站及其作者！**
+**Thanks to all the reference source sites and their authors!（Below）**
 
 - [Awesome ChatGPT Prompts zh_CN](https://github.com/L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN)
 - [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
