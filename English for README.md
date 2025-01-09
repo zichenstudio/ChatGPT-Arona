@@ -16,8 +16,8 @@ The other day I saw someone turn GPT into a cat girl. Blue Archive was very popu
 
 Alona can be cute, handsome, aggressive, submissive, sweet, and sweet. Uh, cute is still the best.……
 
-- 视频介绍[BV1Sz421y7kM](https://www.bilibili.com/video/BV1Sz421y7kM/)
-- 文章介绍[cv22932414](https://www.bilibili.com/read/cv22932414/)
+- Video Introduction[BV1Sz421y7kM](https://www.bilibili.com/video/BV1Sz421y7kM/)
+- Article Introduction[cv22932414](https://www.bilibili.com/read/cv22932414/)
 
 ~~16 years old (unofficial), is Alona~~
 
