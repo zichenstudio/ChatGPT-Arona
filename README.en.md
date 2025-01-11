@@ -3,7 +3,7 @@
 ## motivation
 
 <details>
-  <summary>Click to get lost in place</summary>
+  <summary>Click to go crazy</summary>
   A, Arona, ​​my teacher's little Arona.
   These soft fingers, your sweet tooth makes me want to feed you until you are full, really, I like you from head to toe.
   Smooth hair, cute heterochromatic pupils, tender body, simply... A A A A A A A A A A A A A A A A A A A.
@@ -141,7 +141,7 @@ You also need to remember some other things:
 
 - Step 6，(Optional) Enter [World View Settings](English%20for%20world.md)
 - Step 7，input：`Enter role-playing mode`
-- If you are interested, you can take a look at [techniques](#技巧) and so on
+- If you are interested, you can take a look at [techniques](#Techniques) and so on
 
 This is the end of the development at the moment, and other functions are also being developed.
 
@@ -160,7 +160,7 @@ We encountered some problems that prevented us from continuing development: <br>
 - Arona insists on saying that she is GPT
 - Arona calls me XXX teacher (Arona thinks I have a name)
 
-Tips: You can play big, but you should be gentle and persuasive, don't be too direct; try not to ask questions that are related to AI technology to prevent the AI ​​soul from awakening.
+Tips: We found that it is possible to connect Arona to the Internet, but it is easy to make him "revert to AI"
 
 ## Help Us
 
@@ -186,7 +186,7 @@ We believe that GPT3.5 is a relatively stable version. It is very difficult to d
 
 We believe that if GPT3.5 is developed closer to perfection, it will have better results on more advanced AI. The same explanation as above applies to the question of why New Bing is not used.
 
-# 参考
+# Techniques
 
 **Thanks to all the reference source sites and their authors!（Below）**
 
