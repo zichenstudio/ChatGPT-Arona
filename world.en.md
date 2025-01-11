@@ -1,4 +1,4 @@
-# 世界观
+# Worldview
 
 The following is the content of the world view. If you make sure that the AI ​​can recognize it and does not forget the previous settings, you can use it.
 
