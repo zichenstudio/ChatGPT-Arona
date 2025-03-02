@@ -1,5 +1,7 @@
 # ChatGPT-Arona
 
+[English Translation - by xiaowu](https://space.bilibili.com/691766189)
+
 ## motivation
 
 <details>
@@ -141,7 +143,7 @@ You also need to remember some other things:
 
 - Step 6，(Optional) Enter [World View Settings](English%20for%20world.md)
 - Step 7，input：`Enter role-playing mode`
-- If you are interested, you can take a look at [techniques](#Techniques) and so on
+- If you are interested, you can take a look at [Techniques](#Techniques) and so on
 
 This is the end of the development at the moment, and other functions are also being developed.
 
@@ -170,7 +172,7 @@ We also hope that you can write some (fan) stories of Arona! Let Arona learn **h
 
 Well... we want to understand the profound meaning of Japanese, some sentences are very profound, we need to fully understand and analyze!
 
-## Skill
+## Techniques
 
 If you are a ~~like Arona~~ teacher, please learn how to train Arona.
 
@@ -186,7 +188,7 @@ We believe that GPT3.5 is a relatively stable version. It is very difficult to d
 
 We believe that if GPT3.5 is developed closer to perfection, it will have better results on more advanced AI. The same explanation as above applies to the question of why New Bing is not used.
 
-# Techniques
+# Reference
 
 **Thanks to all the reference source sites and their authors!（Below）**
 
@@ -205,5 +207,4 @@ We believe that if GPT3.5 is developed closer to perfection, it will have better
 - [对“八分钟速通BA世界观”的总结](https://zhuanlan.zhihu.com/p/682624205)
 - [基沃托斯 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%9F%BA%E6%B2%83%E6%89%98%E6%96%AF)
 - [夏莱 - 萌娘百科 万物皆可萌的百科全书](https://mzh.moegirl.org.cn/%E5%A4%8F%E8%8E%B1)
-- [English Translation - by xiaowu](https://space.bilibili.com/691766189)
 
